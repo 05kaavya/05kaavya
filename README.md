@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Final Year Student @ Panimalar Institute of Technology
-<img align="right" width="370" height="290" [src="https://i.pinimg.com/736x/71/d3/bb/71d3bb4201f2da3dc7cfd72b881bb34a.jpg]">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/736x/71/d3/bb/71d3bb4201f2da3dc7cfd72b881bb34a.jpg">
 - 🔭 Here's my [portfolio](https://kaviyaportfolio.netlify.app/)                                       
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Java projects
@@ -35,5 +35,5 @@ Final Year Student @ Panimalar Institute of Technology
 
 ![Kaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=05kaavya&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Kaviya's github activity graph]((https://github-readme-activity-graph.vercel.app/graph?username=05kaavya&bg_color=030303&color=fff5f5&line=a8d7ff&point=fafafa&area=true&hide_border=true)](https://github.com/05kaavya/github-readme-activity-graph))
+[![Kaviya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=05kaavya&bg_color=030303&color=fff5f5&line=a8d7ff&point=fafafa&area=true&hide_border=true)](https://github.com/05kaavya/github-readme-activity-graph)
 
