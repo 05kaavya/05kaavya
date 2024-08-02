@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=05kaviya&theme=radical" alt="Kaviya" /></a> </p>
 Final Year Student @ Panimalar Institute of Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/736x/71/d3/bb/71d3bb4201f2da3dc7cfd72b881bb34a.jpg">
 - 🔭 Here's my [portfolio](https://kaviyaportfolio.vercel.app/)                                       
