@@ -34,6 +34,7 @@ Final Year Student @ Panimalar Institute of Technology
 ### IDE and Tools I Use  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
+
 ![Kaviya's GitHub stats](https://github-readme-stats.vercel.app/api?username=05kaavya&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Kaviya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=05kaavya&bg_color=030303&color=fff5f5&line=a8d7ff&point=fafafa&area=true&hide_border=true)](https://github.com/05kaavya/github-readme-activity-graph)
