@@ -25,6 +25,9 @@ Final Year Student @ Panimalar Institute of Technology
 - 📫 How to reach me 
   <br />
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kaviyasg/)
+  <a href="mailto:kaavyagnanasekaran@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 - 😄 Pronouns: Tech/Tinker
 - ⚡ Fun fact: I code in java as it's derived from java coffee ☕
 
