@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
- JAVA DEVELOPER
+<h3 align="center"> JAVA DEVELOPER</h3>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/736x/71/d3/bb/71d3bb4201f2da3dc7cfd72b881bb34a.jpg">
 
 - 🔭 Here's my [portfolio](https://kaviyaportfolio.vercel.app/)                                       
