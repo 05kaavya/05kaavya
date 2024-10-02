@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" width="370" height="290" src="https://i.pinimg.com/736x/71/d3/bb/71d3bb4201f2da3dc7cfd72b881bb34a.jpg">
 
 - 🔭 Here's my [portfolio](https://kaviyaportfolio.vercel.app/)                                       
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Java projects
 - 🤔 I’m looking for help with Placements in FAANG
 - 📫 How to reach me 
